@@ -1,0 +1,2 @@
+# Poker
+Symulacja mechaniki pokera
